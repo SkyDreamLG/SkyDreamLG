@@ -27,6 +27,7 @@ I'm a passionate developer who loves coding, photography, and gaming. Welcome to
 <a href="https://discord.gg/nC2HRg7t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SkyDreamLG" height="30" width="40" /></a>
 <a href="https://youtube.com/@lgskydream4372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="SkyDreamLG" height="30" width="40" /></a>
 <a href="mailto:l1607002411@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="30" width="40" /></a>
+<a href="https://space.bilibili.com/525321569" target="blank"><img align="center" src="https://simpleicons.org/icons/bilibili.svg" alt="bilibili" height="30" width="40" style="background-color:white; border-radius: 4px;" /></a>
 </p>
 
 <h3 align="left">📧 Email:</h3>
@@ -38,6 +39,12 @@ I'm a passionate developer who loves coding, photography, and gaming. Welcome to
 <h3 align="left">📸 Hobbies & Interests:</h3>
 <p align="left">
 🎮 Gaming &nbsp;|&nbsp; 📷 Photography &nbsp;|&nbsp; 💻 Coding
+</p>
+
+<h3 align="left">🌐 My Links:</h3>
+<p align="left">
+🎬 Bilibili: <a href="https://space.bilibili.com/525321569" target="_blank">https://space.bilibili.com/525321569</a><br>
+📝 Personal Blog: <a href="https://blog.skydream.cyou:9090" target="_blank">https://blog.skydream.cyou:9090</a>
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
