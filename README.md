@@ -30,7 +30,7 @@ I'm a passionate developer who loves coding, photography, and gaming. Welcome to
 <a href="https://space.bilibili.com/525321569" target="blank"><img align="center" src="https://simpleicons.org/icons/bilibili.svg" alt="bilibili" height="30" width="40" style="background-color:white; border-radius: 4px;" /></a>
 <a href="https://www.curseforge.com/members/skydreamlg/projects" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/curseforge.svg" alt="curseforge" height="30" width="40" /></a>
 <a href="https://modrinth.com/user/SkyDreamLG" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/modrinth.svg" alt="modrinth" height="30" width="40" /></a>
-<a href="https://center.mcmod.cn/1035213/" target="blank"><img align="center" src="https://mcmod.cn/favicon.ico" alt="mcmod" height="30" width="40" style="border-radius: 4px;" /></a>
+<a href="https://center.mcmod.cn/1035213/" target="blank"><img align="center" src="https://www.mcmod.cn/favicon.ico" alt="mcmod" height="30" width="40" style="border-radius: 4px;" /></a>
 </p>
 
 <h3 align="left">📧 Email:</h3>
